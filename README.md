@@ -1,4 +1,4 @@
-# Cloud-Storage-Comparison
+# Cloud-Storage-Comparison (AWS, GCP and Microsoft Azure)
 
 
 AWS (Amazon Web Services), GCP(Google Cloud Platforms), and Microsoft Azure are all cloud
