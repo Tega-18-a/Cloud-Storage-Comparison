@@ -1,5 +1,5 @@
 # Cloud-Storage-Comparison (AWS, GCP and Microsoft Azure)
-
+link to video presentation - https://drive.google.com/drive/folders/1FalOv7KqBTK8M1DzP94vgK0YKpb4qubV?usp=drive_link
 
 AWS (Amazon Web Services), GCP(Google Cloud Platforms), and Microsoft Azure are all cloud
 computing platforms that provide on-demand computing resources, storage, and services to
